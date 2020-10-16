@@ -1,0 +1,51 @@
+baseURL = "https://blog.ak-menengah.com"
+title = "Labamen"
+copyright = "Copyright © 2020 lab. Akuntansi Menengah Universitas Gunadarma"
+paginate = 2
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+googleAnalytics = "UA-XXXX"
+DisqusShortname = ""
+theme = "chunky-poster"
+[menu]
+   [[menu.main]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 10
+   
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+author = "authors"
+[params]
+author = "Programmer Labamen"
+description = "Blog Lab. Akuntansi Menengah UG"
+homepageImage = "/images/homepage-image.jpg"
+share = true
+showLanguageSwitcher = false
+# Custom CSS and JS. Relative to /static/css and /static/js respectively.
+customCSS = []
+customJS = []
+[params.social]
+rss = false
+email = "labamendepok@gmail.com"
+instagram = "https://instagram.com/labamen_ug"
+github = "https://github.com/ak-menengah"
+[params.prismJS]
+   enable = true
+   theme = ""
+[params.commento]
+   enable = true
+   url = "https://commento.io"
+[markup]
+   [markup.highlight]
+      codeFences = false
+[services]
+   [services.instagram]
+      disableInlineCSS = true
+   [services.twitter]
+      disableInlineCSS = true
