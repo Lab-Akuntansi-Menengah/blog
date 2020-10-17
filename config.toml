@@ -13,20 +13,32 @@ theme = "chunky-poster"
    [[menu.main]]
       identifier = "home"
       name = "Home"
-      url = "/"
+      url = "https://ak-menengah.com"
       weight = 10
+   [[menu.main]]
+      identifier = "blog"
+      name = "Blog"
+      url = "/"
+      weight = 20   
+   [[menu.main]]
+      identifier = "about"
+      name = "About"
+      url = "/about"
+      weight = 30  
    
 [taxonomies]
 category = "categories"
 tag = "tags"
 series = "series"
 author = "authors"
+
 [params]
 author = "Programmer Labamen"
-description = "Blog Lab. Akuntansi Menengah UG"
+description = "Blog Lab. Akuntansi Menengah   UG"
 homepageImage = "/images/homepage-image.jpg"
 share = true
 showLanguageSwitcher = false
+
 # Custom CSS and JS. Relative to /static/css and /static/js respectively.
 customCSS = []
 customJS = []
@@ -35,6 +47,7 @@ rss = false
 email = "labamendepok@gmail.com"
 instagram = "https://instagram.com/labamen_ug"
 github = "https://github.com/ak-menengah"
+youtube = "https://www.youtube.com/channel/UCpJLVsbwfK653nP_w1ly5Hg"
 [params.prismJS]
    enable = true
    theme = ""

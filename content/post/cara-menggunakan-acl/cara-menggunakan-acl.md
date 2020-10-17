@@ -7,7 +7,7 @@ tags: [tutorial]
 authors: [kizbudin]
 images: ['/images/acl-logo.gif']
 ---
-ACL adalah sebuah software yang dirancang secara khusus untuk menganalisa data dan menghasilkan laporan audit baik untuk pengguna biasa (common/ nontechnical users) maupun pengguna ahli (expert users).
+ACL adalah sebuah software yang dirancang secara khusus untuk menganalisa data dan menghasilkan laporan audit baik untuk pengguna biasa (common/ nontechnical users) maupun pengguna ahli (expert users). <!--more-->
 
 ### Cara menggunakan ACL
 1. Download Aplikasi ACL di http://bit.ly/labamen-acl

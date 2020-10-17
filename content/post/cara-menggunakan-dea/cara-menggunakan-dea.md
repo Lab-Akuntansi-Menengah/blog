@@ -7,7 +7,7 @@ tags: [tutorial]
 authors: [kizbudin]
 images: ['/images/dea-logo.png']
 ---
-DEA adalah singkatan dari DacEasy Accounting, DEA merupakan program akuntansi portable atau tanpa perlu di install di komputer yang digunakan untuk menghitung General Ledger, Accounts Payable, Accounts Receivable, Inventory, Purchasing, Billing, Cash, Recurring, Fixed Assets, Reporting.
+DEA adalah singkatan dari DacEasy Accounting, DEA merupakan program akuntansi portable atau tanpa perlu di install di komputer yang digunakan untuk menghitung General Ledger, Accounts Payable, Accounts Receivable, Inventory, Purchasing, Billing, Cash, Recurring, Fixed Assets, Reporting. <!--more-->
 ### Cara Menggunakan DEA Untuk Windows Versi 32 Bit
 1. Download DEA di http://bit.ly/labamen-dea
 2. Extract DEA yang sudah di download

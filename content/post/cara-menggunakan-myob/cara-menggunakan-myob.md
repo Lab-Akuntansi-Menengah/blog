@@ -6,7 +6,7 @@ tags: [tutorial]
 authors: [kizbudin]
 images: ['/images/myob.jpg']
 ---
-MYOB ( Mind Your Own Businnes) Accounting merupakan software komputer pengolah data akuntansi yaitu proses pencatatan data transaksi akuntansi yang dilakukan dengan cara memasukkan data transaksi ke dalam computre,kemudian computer akan mengolahnya menjadi laporan.Biasanya myob accounting di gunakan dalam beberapa perusahaaan seperti perusahaan jasa,dagang dan lain-lain.
+MYOB ( Mind Your Own Businnes) Accounting merupakan software komputer pengolah data akuntansi yaitu proses pencatatan data transaksi akuntansi <!--more--> yang dilakukan dengan cara memasukkan data transaksi ke dalam computre,kemudian computer akan mengolahnya menjadi laporan.Biasanya myob accounting di gunakan dalam beberapa perusahaaan seperti perusahaan jasa,dagang dan lain-lain. 
 
 #### Cara Menggunakan MYOB
 1. Download myob di http://bit.ly/labamen-myob

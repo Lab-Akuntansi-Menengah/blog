@@ -8,7 +8,7 @@ authors: [kizbudin]
 images: ['/images/zahir-logo.png']
 description: ['Lorem ipsum dolor sit amet']
 ---
-Zahir Accounting adalah software akuntansi keuangan yang sangat inovatif, namun sangat berbeda dengan software akuntansi lainnya. 
+Zahir Accounting adalah software akuntansi keuangan yang sangat inovatif, namun sangat berbeda dengan software akuntansi lainnya.  <!--more-->
 Selain mempermudah pembukuan, dimana seluruh jurnal akuntansi dan laporan keuangan dibuat secara otomatis tanpa perlu mengerti teori akuntansi yang mendalam, Zahir Accounting juga akan mempermudah Anda dalam mengambil keputusan bisnis, karena dilengkapi berbagai analisa laporan keuangan perusahaan, seperti analisa rasio, break even point analysis, berbagai grafik dan laporan interaktif yang menarik dan terintegrasi.
 ### Cara Menggunakan Zahir
 1. Download Zahir di http://bit.ly/labamen-zahir
