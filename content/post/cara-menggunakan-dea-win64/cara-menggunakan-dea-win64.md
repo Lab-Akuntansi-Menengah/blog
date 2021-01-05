@@ -21,10 +21,14 @@ Setelah mendownload lakukan langkah-langkah berikut :
 2. Copy folder dea4 ke drive c
 ![copy](/images/dea/02.gif)
 
-3. buka dosbox 
+3. buka dosbox lalu masukan perintah berikut :\
+>`mount c c:\dea4`\
+`c:`\
+`dea4`
+
 ![dosbox](/images/dea/03.gif)
 
-Cara membuat tampilan dosbox menjadi lebih besar
+### Cara membuat tampilan dosbox menjadi lebih besar
 1. klik logo windows atau klik start lalu tulis dosbox
 ![search](/images/dea/04.gif)
 
